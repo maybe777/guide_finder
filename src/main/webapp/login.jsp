@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<%@ page contentType="text/html; charset=UTF-8" %>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -8,13 +8,12 @@
 <link href="//maxcdn.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
 <script src="//maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js"></script>
 <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
-<script src="./js/script.js"></script>
+<script src="../resources/js/script.js"></script>
 <!------ Include the above in your HEAD tag ---------->
 
 
 <div class="container">
     <div class="row">
-        <h2><strong>Bootstrap input show password value  By </strong> <a href="https://goo.gl/pR8ito" target="_blank">Nababur</a> <br/></h2><br/>
         <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
             <!-- Start form -->
             <form>
